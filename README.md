@@ -1,0 +1,1 @@
+# cloud-confluence-cr-validator
